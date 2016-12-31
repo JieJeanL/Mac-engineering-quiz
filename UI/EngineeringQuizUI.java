@@ -18,7 +18,7 @@ import javafx.stage.Stage;
 /**
  * This class wraps the quiz logic in a JavaFX UI.
  *
- * @author Kelvin Lin
+ * @author Jie Luo, Kelvin Lin
  */
 public class EngineeringQuizUI extends Application {
 
